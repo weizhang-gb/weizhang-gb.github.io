@@ -3,9 +3,13 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am Wei Zhang, currently a R&D engineer at Microsoft Azure. 
+I am Wei Zhang, currently a R&D engineer at Microsoft Azure since July 2018 (operating system, distributed system, next generation network, edge computing).
 
-I received my B.S. degree in Human Resource Management from [Hebei University Of Economics & Business](http://www.heuet.edu.cn/) in 2006 and M.S. degree in Computer Science from [Yan Shan University](http://www.ysu.edu.cn/) in 2008. I started my PhD life at [Beihang University](http://www.buaa.edu.cn/) in 2008, advised by [Prof. Mingfa Zhu](http://www.nlsde.buaa.edu.cn/node/160). From November 2012 to October 2014, I participated in an international PhD program as a visitor student at the [George Washington University](http://www.gwu.edu/) and joined the PhD program in January 2015, advised by [Prof. Timothy Wood](http://faculty.cs.gwu.edu/~timwood/wiki/doku.php). I received PhD degree from Beihang University in June 2015. I received my second Phd degree from GWU university at August 2018.
+From Sep 2008 to Dec 2014, I was a Phd student in computer science at Beihang University advised by by [Prof. Mingfa Zhu](http://www.nlsde.buaa.edu.cn/node/160). Meanwhile, I was also a visitng student at Institute of Computing Technology Chinese Academy of Sciences (June 2010 to July 2012) and at the George Washington University (Nov 2012 to Oct 14). I had my second phd life from Jan 15 to Aug 18 advised by [Prof. Timothy Wood](http://faculty.cs.gwu.edu/~timwood/wiki/doku.php).    
+
+<span style="color:red">**To prospective students: $~$
+
+I am looking for highly-motivated Ph.D. students who have strong interests in cloud computing, distributed system, operating system, resource disaggregation, network system (NFV, SDN), edge computing, micro services, serverless computing, storage system and machine learning system. You are welcome to drop me an email with your materials such as CV and transcripts and mention my name in your application.**</span>
 
 ## Research Interests:
 
@@ -13,6 +17,10 @@ I received my B.S. degree in Human Resource Management from [Hebei University Of
 * Distributed system
 * Network and storage system
 * Resource disaggregation
+* ML system
+* Edge computing
+* serverless computing
+* Resourde management
 
 ## Internships
 * **Research Intern, HP Labs, System Software Group**, July 2017 to June 2018
@@ -30,6 +38,10 @@ I received my B.S. degree in Human Resource Management from [Hebei University Of
  
 ## Publications
 #### Conferences, Workshops and Posters
+* **Wei Zhang**, Abhigyan Sharma, Timothy Wood. EdgeBalance: Model-Based Load Balancing for Edge Network Data Planes, HotEdge, Boston, July, 2020.
+* Sameer G Kulkarni, **Wei Zhang**, Jinho Hwang, Shriram rajagopalan, K. K. Ramakrishnan, Timoty Wood, Mayutan Arumaithurai, Xiaoming Fu. NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains, IEEE/ACM Transactions on Networking, Volume: 28 , Issue: 2, 639 - 652, 2020.
+* Jiaqi Zheng, Chen Tian, Haipeng Dai, Qiufang Ma, **Wei Zhang**, Guihai Chen, Gong Zhang. Optimizing NFV Chain Deployment in Software-defined Cellular Core. IEEE Journal on Selected Areas in Communications (JSAC), Volume: 38, Issue: 2, 248 - 262, 2019.
+* Jiaqi Zheng, Qiufang Ma, Chen Tian, Haipeng Dai, **Wei Zhang**, Guihai Chen, Gong Zhang. Orchestrating Service Chain Deployment with Plutus in Next Generation Cellular Core, IWQOS, Phoenix, Arizona, USA, June 24-25, 2019.
 * Haris Volos, Kimberly Keeton, Yupu Zhang, Milind Chabbi, Sekwon Lee, Mark Lillibridge, Yuvraj Patel, **Wei Zhang**. Memory-Oriented Distributed Computing at Rack Scale, **Submitted**.
 * Haris Volos, Kimberly Keeton, Yupu Zhang, Milind Chabbi, Sekwon Lee, Mark Lillibridge, Yuvraj Patel, **Wei Zhang**. Software challenges for persistent fabric-attached memory, **OSDI Poster**, 2018.
 * Haris Volos, Kimberly Keeton, Yupu Zhang, Milind Chabbi, Sekwon Lee, Mark Lillibridge, Yuvraj Patel, **Wei Zhang**. Memory-Oriented Distributed Computing at Rack Scale, **SOCC Poster**, 2018.
@@ -68,8 +80,7 @@ I received my B.S. degree in Human Resource Management from [Hebei University Of
 
 ## Services
 * Reviewers: Transactions on Computer Systems, Computer Networks, Transactions on Parallel & Distributed systems, IEEE Network Magazine, Journal of Parallel and Distributed Computing...
-* PPoPP 18, 19 AE Committee member
-
+* PPoPP 18, 19,20 AE Committee member
 
 ## Honors and Awards
 #### Student Awards
@@ -87,7 +98,3 @@ I received my B.S. degree in Human Resource Management from [Hebei University Of
 * NSDI Travel Grant, May 2015
 * Usenix FCW Travel Grant, June 2014
 * CCGRID Travel Grant, May 2014
-
-
-  
-
