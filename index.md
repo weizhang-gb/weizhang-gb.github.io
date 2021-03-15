@@ -7,9 +7,7 @@ I am Wei Zhang, currently a R&D engineer at Microsoft Azure since July 2018 (ope
 
 From Sep 2008 to Dec 2014, I was a Phd student in computer science at Beihang University advised by by [Prof. Mingfa Zhu](http://www.nlsde.buaa.edu.cn/node/160). Meanwhile, I was also a visitng student at Institute of Computing Technology Chinese Academy of Sciences (June 2010 to July 2012) and at the George Washington University (Nov 2012 to Oct 14). I had my second phd life from Jan 15 to Aug 18 advised by [Prof. Timothy Wood](http://faculty.cs.gwu.edu/~timwood/wiki/doku.php).    
 
-<span style="color:red">**To prospective students: $~$
-
-I am looking for highly-motivated Ph.D. students who have strong interests in cloud computing, distributed system, operating system, resource disaggregation, network system (NFV, SDN), edge computing, micro services, serverless computing, storage system and machine learning system. You are welcome to drop me an email with your materials such as CV and transcripts and mention my name in your application.**</span>
+<span style="color:red">**I am looking for highly-motivated Ph.D. students who have strong interests in cloud computing, distributed system, operating system, resource disaggregation, network system (NFV, SDN), edge computing, micro services, serverless computing, storage system and machine learning system. You are welcome to drop me an email with your materials such as CV and transcripts and mention my name in your application.**</span>
 
 ## Research Interests:
 
