@@ -20,20 +20,7 @@ From Sep 2008 to Dec 2014, I was a Phd student in computer science at Beihang Un
 * serverless computing
 * Resourde management
 
-## Internships
-* **Research Intern, HP Labs, System Software Group**, July 2017 to June 2018
-  * Memory disaggregation with fast network through Gen-Z
-* **R&D Intern, VMWare/Nicira NSX Edge team**, Feb 2017 to April 2017
-  * High performance edge platform for NSX
-* **Research Intern, Futurewei Research lab**, Sep 2016 to Jan 2017
-  * High performance and scalable networking platform
-* **Research Intern, AT&T Research lab, Cloud Service Group**, June 2016 to Aug 2016
-  * Towards an OS for the network data plane with FastPaaS
-* **R&D Intern, Baidu Infrastructure Group**, Nov 2014 to Jan 2015
-  * Improve Openstack Neutron networking performance
-* **R&D Intern, Oracle Solaris NIC Group**, July 2012 to Nov 2012
-  * Learn e1000g, S11 NIC PV driver and test scripts, repeat bugs
- 
+
 ## Publications
 #### Conferences, Workshops and Posters
 * **Wei Zhang**, Abhigyan Sharma, Timothy Wood. EdgeBalance: Model-Based Load Balancing for Edge Network Data Planes, HotEdge, Boston, July, 2020.
@@ -79,6 +66,21 @@ From Sep 2008 to Dec 2014, I was a Phd student in computer science at Beihang Un
 ## Services
 * Reviewers: Transactions on Computer Systems, Computer Networks, Transactions on Parallel & Distributed systems, IEEE Network Magazine, Journal of Parallel and Distributed Computing...
 * PPoPP 18, 19,20 AE Committee member
+
+## Internships
+* **Research Intern, HP Labs, System Software Group**, July 2017 to June 2018
+  * Memory disaggregation with fast network through Gen-Z
+* **R&D Intern, VMWare/Nicira NSX Edge team**, Feb 2017 to April 2017
+  * High performance edge platform for NSX
+* **Research Intern, Futurewei Research lab**, Sep 2016 to Jan 2017
+  * High performance and scalable networking platform
+* **Research Intern, AT&T Research lab, Cloud Service Group**, June 2016 to Aug 2016
+  * Towards an OS for the network data plane with FastPaaS
+* **R&D Intern, Baidu Infrastructure Group**, Nov 2014 to Jan 2015
+  * Improve Openstack Neutron networking performance
+* **R&D Intern, Oracle Solaris NIC Group**, July 2012 to Nov 2012
+  * Learn e1000g, S11 NIC PV driver and test scripts, repeat bugs
+ 
 
 ## Honors and Awards
 #### Student Awards
