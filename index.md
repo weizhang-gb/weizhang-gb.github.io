@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am Wei Zhang, currently a R&D engineer at Microsoft Azure since July 2018 (operating system, distributed system, next generation network, edge computing).
+I am Wei Zhang, assistant professor at cse department of university of connecticut. Before that, work at Microsft for more than 3 years after graduating from GWU.
 
 From Sep 2008 to Dec 2014, I was a Phd student in computer science at Beihang University advised by [Prof. Mingfa Zhu](http://www.nlsde.buaa.edu.cn/node/160). Meanwhile, I was also a visitng student at Institute of Computing Technology Chinese Academy of Sciences (from June 2010 to July 2012) and at the George Washington University (from Nov 2012 to Oct 2014). I had my second phd life from Jan 2015 to Aug 2018 advised by [Prof. Timothy Wood](http://faculty.cs.gwu.edu/~timwood/wiki/doku.php).    
 
