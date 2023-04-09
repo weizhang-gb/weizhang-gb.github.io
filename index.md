@@ -18,7 +18,7 @@ From Sep 2008 to Dec 2014, I was a Phd student in computer science at Beihang Un
 * ML system
 * Edge computing
 * serverless computing
-* Resourde management
+* Resource management
 
 
 ## Publications
